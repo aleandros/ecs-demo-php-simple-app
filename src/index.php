@@ -24,6 +24,7 @@
                         echo fread($myfile,filesize("/var/www/my-vol/date"));
                         fclose($myfile);
                 ?>
+				<img src="https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.redd.it%2Fgsakqo1mvi201.png&f=1">
 
             </div>
         </div>
